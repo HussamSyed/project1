@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  year: 2013-05-19
+  city: MyString
+  state: MyString
+  zip: 1
+
+two:
+  name: MyString
+  year: 2013-05-19
+  city: MyString
+  state: MyString
+  zip: 1
